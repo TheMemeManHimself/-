@@ -1,6 +1,6 @@
 # TheMemeManHimself
 
-[Schoolwork](https://themememanhimself.github.io/schoolwork/main]
+[Schoolwork](https://themememanhimself.github.io/schoolwork/main)
 
 - [x] Create site
 - [ ] Other stuff
